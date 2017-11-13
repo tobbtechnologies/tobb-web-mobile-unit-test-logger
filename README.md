@@ -38,3 +38,6 @@ Fri Nov 10 2017 : x = PASS✔
 Fri Nov 10 2017 : x = 5
 Fri Nov 10 2017 : x = 5 = PASS✔
 
+Installation:
+
+git clone https://github.com/tobbtechnologies/tobb-web-mobile-unit-test-logger
